@@ -8,3 +8,4 @@ Piatto tipico romano
 * uova
 * pepe 
 * Guanciale
+* Piselli e Prezzemolo
